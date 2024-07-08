@@ -1,5 +1,5 @@
-<h1 align="center">Blockscout</h1>
-<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
+<h1 align="center">ClishaScan</h1>
+<p align="center">Blockchain Explorer for inspecting and analyzing ClshaChain.</p>
 <div align="center">
 
 [![Blockscout](https://github.com/blockscout/blockscout/workflows/Blockscout/badge.svg?branch=master)](https://github.com/blockscout/blockscout/actions)
